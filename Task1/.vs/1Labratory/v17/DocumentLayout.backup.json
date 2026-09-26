@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Vs_code_files\\1Labratory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|c:\\users\\david\\vs_code_files\\1labratory\\1labratory\\arithmetic_progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|solutionrelative:1labratory\\arithmetic_progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|c:\\users\\david\\vs_code_files\\1labratory\\1labratory\\ttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|solutionrelative:1labratory\\ttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|c:\\users\\david\\vs_code_files\\1labratory\\1labratory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA7BFFE-C102-4D5D-9BE1-78025D3979E5}|1Labratory\\1Labratory.csproj|solutionrelative:1labratory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\Program.cs",
+              "RelativeDocumentMoniker": "1Labratory\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\Program.cs",
+              "RelativeToolTip": "1Labratory\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:51:31.565Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\TTriangle.cs",
+              "RelativeDocumentMoniker": "1Labratory\\TTriangle.cs",
+              "ToolTip": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\TTriangle.cs",
+              "RelativeToolTip": "1Labratory\\TTriangle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:02:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arithmetic_progression.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\Arithmetic_progression.cs",
+              "RelativeDocumentMoniker": "1Labratory\\Arithmetic_progression.cs",
+              "ToolTip": "C:\\Users\\david\\Vs_code_files\\1Labratory\\1Labratory\\Arithmetic_progression.cs",
+              "RelativeToolTip": "1Labratory\\Arithmetic_progression.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T06:59:50.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

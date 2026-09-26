@@ -1,0 +1,14 @@
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\bin\Debug\net8.0\1Labratory.exe
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\bin\Debug\net8.0\1Labratory.deps.json
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\bin\Debug\net8.0\1Labratory.runtimeconfig.json
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\bin\Debug\net8.0\1Labratory.dll
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\bin\Debug\net8.0\1Labratory.pdb
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.AssemblyInfoInputs.cache
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.AssemblyInfo.cs
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.csproj.CoreCompileInputs.cache
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.dll
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\refint\1Labratory.dll
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.pdb
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\1Labratory.genruntimeconfig.cache
+C:\Users\david\Vs_code_files\1Labratory\1Labratory\obj\Debug\net8.0\ref\1Labratory.dll
