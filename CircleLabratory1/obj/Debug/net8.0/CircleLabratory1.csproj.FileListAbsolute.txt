@@ -1,0 +1,14 @@
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\bin\Debug\net8.0\CircleLabratory1.exe
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\bin\Debug\net8.0\CircleLabratory1.deps.json
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\bin\Debug\net8.0\CircleLabratory1.runtimeconfig.json
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\bin\Debug\net8.0\CircleLabratory1.dll
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\bin\Debug\net8.0\CircleLabratory1.pdb
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.AssemblyInfoInputs.cache
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.AssemblyInfo.cs
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.csproj.CoreCompileInputs.cache
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.dll
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\refint\CircleLabratory1.dll
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.pdb
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\CircleLabratory1.genruntimeconfig.cache
+C:\Users\david\Vs_code_files\CircleLabratory1\CircleLabratory1\obj\Debug\net8.0\ref\CircleLabratory1.dll
